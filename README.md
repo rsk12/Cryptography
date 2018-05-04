@@ -1,4 +1,4 @@
-Hashing :
+<b>Hashing :</b>
 A Hash is a String or number generated from String of text
 Algorithm
 MD5128 bit 
