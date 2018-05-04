@@ -777,3 +777,45 @@ public class BCrypt {
 		return ret == 0;
 	}
 }
+
+
+
+
+
+<h1> If you want to  hash a password that presists in database as encrypted 
+
+	Classname.methodname(input field)
+	
+	example:
+	 password that persists in a database 
+	 
+	 
+	 
+		        ps.setString(2, BCrypt.hashpw(email, SALT));
+			ps.setString(3, BCrypt.hashpw(password, SALT));
+	 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
